@@ -6,4 +6,5 @@ h2.purpleBanner {
   padding-bottom: 8px;
   vertical-align: middle;
   color: #ffffff !important;
+  height: revert !important;
  }
